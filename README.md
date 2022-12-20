@@ -29,3 +29,8 @@ Difference between **PUT** & **PATCH**?
 - **PUT** : It updates a document by completely replcing it with another document.
 
 - **PATCH** : It  updates a document by updating a specific field of document.
+
+
+We need to perform the below operations :- 
+
+![WhatsApp Image 2022-12-20 at 7 12 11 PM](https://user-images.githubusercontent.com/75883328/208681247-34f018cc-dd17-4008-aff7-6a989f05e732.jpeg)
