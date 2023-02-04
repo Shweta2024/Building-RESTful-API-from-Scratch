@@ -78,6 +78,13 @@ Difference between **PUT** & **PATCH**?
 - **PATCH** : It  updates a document by updating a specific field of document.
 
 
-We need to perform the below operations :- 
+## We need to perform the below operations :- 
 
-![WhatsApp Image 2022-12-20 at 7 12 11 PM](https://user-images.githubusercontent.com/75883328/208681247-34f018cc-dd17-4008-aff7-6a989f05e732.jpeg)
+
+| HTTP Verbs | /articles | /articles/shweta-article |
+|-----------|---------|------------------|
+| GET | fetches ```all``` the articles | fetches the articel on ```shweta-article```|
+| POST | creates ```one``` new article |   - |
+| PUT | - | updates the article on ```shweta-article``` |
+| PATCH | - | updates the article on ```shweta-article``` |
+| DELETE | deletes ```all``` the articles | deletes the article on ```shweta-article``` |
