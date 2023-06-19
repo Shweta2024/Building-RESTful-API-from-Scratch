@@ -88,3 +88,8 @@ Difference between **PUT** & **PATCH**?
 | PUT | - | updates the article on ```shweta-article``` |
 | PATCH | - | updates the article on ```shweta-article``` |
 | DELETE | deletes ```all``` the articles | deletes the article on ```shweta-article``` |
+
+
+Explanation about REST API:- [Link](https://www.youtube.com/watch?v=lsMQRaeKNDk)
+![image](https://github.com/Shweta2024/Building-RESTful-API-from-Scratch/assets/75883328/4e845afd-4cc6-4f70-9908-915684eb8745)
+
