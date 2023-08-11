@@ -93,3 +93,6 @@ Difference between **PUT** & **PATCH**?
 Explanation about REST API:- [Link](https://www.youtube.com/watch?v=lsMQRaeKNDk)
 ![image](https://github.com/Shweta2024/Building-RESTful-API-from-Scratch/assets/75883328/4e845afd-4cc6-4f70-9908-915684eb8745)
 
+
+- Why GET request should not have a body?
+Sending body/payload in a GET request may cause some existing implementations to reject the request — while not prohibited by the specification, the semantics are undefined. It is better to just avoid sending payloads in GET requests.
